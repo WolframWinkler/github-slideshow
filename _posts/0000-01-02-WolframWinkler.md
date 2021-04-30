@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Dies ist der neue Text mit <b>Fettdruck</b>
 Use the left arrow to go back!
